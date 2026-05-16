@@ -7,7 +7,7 @@ Welcome to my portfolio of frontend projects. Each project is live and demonstra
 ## 🚀 Live Projects
 
 ### 1. Modern Frontend Website  
-🔗 [Live Site](https://clever-fairy-f6455b.netlify.app)  
+🔗 [Live Site](https://mlproject2242.netlify.app/)  
 🛠️ Tech Used: HTML, CSS, JavaScript, GSAP, Locomotive, ScrollTrigger 
 📝 Description: A modern, responsive website to showcase skills and projects.
 
