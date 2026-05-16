@@ -1,6 +1,6 @@
 # 💼 Kamlesh Johrani — Frontend Projects Portfolio
 
-Welcome to my portfolio of frontend projects. Each project is live and demonstrates my HTML, CSS, and JavaScript skills.
+Welcome to my portfolio of frontend projects. Each project is live and demonstrates my HTML, CSS, JavaScript, ReactJS and TailwindCSS skills.
 
 ---
 
@@ -39,10 +39,13 @@ Welcome to my portfolio of frontend projects. Each project is live and demonstra
 ---
 
 
-### 5. Modern Online Earning Website  
-🔗 [Live Site](https://kamlesh-johrani.netlify.app/)  
-🛠️ Tech Used: HTML, CSS, JavaScript, GSAP, ScrollTrigger, Locomotive
+### 5. Modern E-commerce Site  
+🔗 [Live Site](https://thunderous-unicorn-bb9b08.netlify.app/)  
+🛠️ Tech Used: ReactJS, TailwindCSS, GSAP,
 📝 Description: A functional online earning website(Only frontend).
+
+
+---
 
 
 
