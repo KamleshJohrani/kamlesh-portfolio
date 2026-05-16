@@ -23,7 +23,7 @@ Welcome to my portfolio of frontend projects. Each project is live and demonstra
 ---
 
 ### 3. To-Do List App  
-🔗 [Live Site](https://task2todolist.netlify.app/)  
+🔗 [Live Site](https://jspracticetodolist.netlify.app/)  
 🛠️ Tech Used: HTML, CSS, JavaScript  
 📝 Description: A functional task manager (To-Do list) where users can add, mark, and delete tasks with responsive design and local storage.
 
